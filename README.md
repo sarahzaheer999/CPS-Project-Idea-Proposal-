@@ -14,9 +14,9 @@ We live in a world where everything we do is being watched by someone or the oth
 
 | DATA         | RENDER       | STIMULATION | EVENTS.     | 
 | :---         |           :--- |        ---: |    ---: |
-|Faces of different people. | Faces of different people.    | Faces of different people. | Faces of different people.        |
-| git diff     | git diff       | git diff      |              |
-| git diff     | git diff       | git diff      |              |
+|Faces of different people. | Faces of different people.    | Moving Shapes. | Switch button-on|
+| Shapes in different colors.  | Grid of shapes in different colors.     | Changing Faces/Shapes.    | Shapes/faces start appearing.  |
+| A person’s emotional state.   |        |     |  Emotional State-button     |
 
 
 
