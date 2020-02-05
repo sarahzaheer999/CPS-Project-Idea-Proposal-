@@ -23,13 +23,15 @@ We live in a world where everything we do is being watched by someone or the oth
 ## Other things to consider
 
 1.What would the mask display? 
-1.These are my ideas:-
+
+These are my ideas:-
 
 - The mask could display the emotional state of a person in the form of coded images like red diamond for anger, blue circles for calmness and so on.
 - The mask could also display a face made of images of people from all around the world. This could be a thousand faces or a face made of different parts of different people’s faces.
 
 2. When would these be displayed? Is there a trigger?
-2. Yes, there is one! A switch that’ll turn on the projection.
+  
+  Yes, there is one! A switch that’ll turn on the projection.
 
 
 ## What is going to be hard
