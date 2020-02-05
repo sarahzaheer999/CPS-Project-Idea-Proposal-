@@ -31,7 +31,7 @@ These are my ideas:-
 
 2. When would these be displayed? Is there a trigger?
   
-  Yes, there is one! A switch that’ll turn on the projection.
+  Yes, there is one! A switch that’ll turn on the projection/LED display
 
 
 ## What is going to be hard
