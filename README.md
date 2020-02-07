@@ -39,3 +39,12 @@ These are my ideas:-
 1. Getting the data of a thousand people’s faces and joining them together.
 2. A sense of interactivity.
 3. How does the system know your emotional state? Does the user tell it?
+
+## Timeline
+
+Week 3: Proposal
+Week 4: Research
+Week 7: Work on Prototype 
+Week 8: Iterate 
+Week 9: Final 
+
