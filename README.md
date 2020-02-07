@@ -43,8 +43,12 @@ These are my ideas:-
 ## Timeline
 
 Week 3: Proposal
+
 Week 4: Research
+
 Week 7: Work on Prototype 
+
 Week 8: Iterate 
+
 Week 9: Final 
 
